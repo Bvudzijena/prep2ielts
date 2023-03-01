@@ -1,0 +1,523 @@
+{   "idioms" : [
+    {
+        "id" : "1",
+        "name" : "arm and leg",
+        "description" : "it cost me an arm and a leg",
+        "definition" : "expensive",
+        "example1" : "It will cost my family an arm and a leg to get me a ticket back home.",
+        "example2" : "The honeymoon will cost them an arm and a leg, if they continue with their fantasies."
+    },
+    {
+        "id" : "2",
+        "name" : "over the moon",
+        "description" : "over the moon",
+        "definition" : "very happy",
+        "example1" : "She was over the moon when the results came out.",
+        "example2" : "Jones thought to himself, and figured how much he would be over the moon if everything went to plan."
+    },
+    {
+        "id" : "3",
+        "name" : "jumping the gun",
+        "description" : "jumping the gun",
+        "definition" : "considered too early to do something",
+        "example1" : "Everyone thought he was jumping the gun when he begun that project. Well, it worked out somehow.",
+        "example2" : "Had you studied your idioms well. Aren't jumping the gun taking your exams this week."
+    },
+    {
+        "id" : "4",
+        "name" : "once in a blue moon",
+        "description" : "once in a while",
+        "definition" : "rare occurences",
+        "example1" : "Once in a blue moon. I rather go to the mountains than taking all my weekends at the lake.",
+        "example2" : "Then they grew up, and he began visit them once in a blue moon."
+    },
+    {
+        "id" : "5",
+        "name" : "chip on the shoulder",
+        "description" : "chip on the shoulder",
+        "definition" : "feeling inferior or inadequate",
+        "example1" : "After that loss, the coach had a chip on his shoulder.",
+        "example2" : "We had to intervene and motivate Mrs. Jonas. She had a chip on her shoulder."
+    },
+    {
+        "id" : "6",
+        "name" : "piece of cake",
+        "description" : "piece of cake",
+        "definition" : "very easy",
+        "example1" : "Nicks knew the fifth recording was going to be a piece of cake. He was doing the remix.",
+        "example2" : "Well, come to think of it, he had explained everything thoroughly. The exam was a piece of cake."
+    },
+    {
+        "id" : "7",
+        "name" : "a drop in the ocean",
+        "description" : "a drop in the ocean",
+        "definition" : "inadequately supplied or smaller part of the bigger picture",
+        "example1" : "You wonder how they were going to go through the whole year with such a budget. It was a drop in the ocean, considering their proposed spending.",
+        "example2" : "It was a joke when they presented their contribution. That being a drop in the ocean, you wonder, how shameless."
+    },
+    {
+        "id" : "8",
+        "name" : "blessing in disguise",
+        "description" : "blessing in disguise",
+        "definition" : "a positive outcome unexpected considering the past negatives",
+        "example1" : "He later saw the accident as a blessing in disguise. That is where he first met his wife to be.",
+        "example2" : "It became clear, the lose of her business became a blessing in disguise. She got a happier family life and you could see how that changed her life."
+    },
+    {
+        "id" : "9",
+        "name" : "actions speaks louder than words",
+        "description" : "actions speaks louder than words",
+        "definition" : "rather doing something than just planning",
+        "example1" : "It is high we start doing something about those school children crossing Abbey Street. Actions speaks louder than words.",
+        "example2" : "With all the promises my uncle had given me, now I know that actions speaks louder than words. I later regretted relying on his word."
+    },
+    {
+        "id" : "10",
+        "name" : "it is a small world",
+        "description" : "it's a small world",
+        "definition" : "unexpectedly meeting someone",
+        "example1" : "She later said that it was a small world. We had last met before when she felt powerful at her work office. Now she was in an interview, and I was in the panel.",
+        "example2" : "Well it is a small world. We happened to meet at the funeral and later learnt we were closely related. All this time we had only considered ourselves neighbors."
+    },
+    {
+        "id" : "11",
+        "name" : "back to the drawing board",
+        "description" : "back to the drawing board",
+        "definition" : "when it's time to start over something",
+        "example1" : "Well, we knew he was a great leader when he took that stance. Everyone agreed with him we had to go back to the drawing board.",
+        "example2" : "When the building collapsed during the earthquake, everyone had lost so much hope. Between living at refugee camps, everyone got back to the drawing board. But we eventually rebuilt after several years."
+    },
+    {
+        "id" : "12",
+        "name" : "stuck between a rock and a hard place",
+        "description" : "rock and a hard place",
+        "definition" : "in-between two equally bad choices",
+        "example1" : "It was hard to imagine how he could deal with his issue. We knew he was caught between a rock and a hard place. However we tried to show him the better side.",
+        "example2" : "Those guys in the old districts, are really between a rock and a hard place. Imagine if having to choose between staying and facing the drought, or going across the border controlled by ruthless rebels."
+    },
+    {
+        "id" : "13",
+        "name" : "bite my tongue",
+        "description" : "biting my tongue",
+        "definition" : "avoiding saying something",
+        "example1" : "He is a mature lad. He had to bite his tongue during that tense moment.",
+        "example2" : "Sometimes you might regret what you say during those family meetings. Rather bite your tongue."
+    },
+    {
+        "id" : "14",
+        "name" : "cut the chase",
+        "description" : "cut the chase",
+        "definition" : "going in circles instead of explaining without the unnecessary details",
+        "example1" : "That's his delaying tactics. Ma'am had to ask him to cut the chase. We would have spend the whole day listening to him bubbling.",
+        "example2" : ""
+    },
+    {
+        "id" : "15",
+        "name" : "put all your eggs in one basket",
+        "description" : "putting all your eggs in one basket",
+        "definition" : "failing to diversify, or putting your chances to one outcome",
+        "example1" : "James fainted when it was announced that the firm was closing. He had put all his eggs in one basket.",
+        "example2" : ""
+    },
+    {
+        "id" : "16",
+        "name" : "every cloud has a silver lining",
+        "description" : "every cloud has a silver lining",
+        "definition" : "a belief that every situation (especially bad ones) ends with good or better outcomes that expected",
+        "example1" : "The situation was very tough for everyone. However, we had hoped that this cloud had a silver lining. It took us three months to begin seeing positive results.",
+        "example2" : "Her miscarriage had brought a lot of words exchanges. Only the husband had thought that every cloud has a silver lining. This was later proved when they later got together during the wedding."
+    },
+    {
+        "id" : "17",
+        "name" : "found my feet",
+        "description" : "find your feet",
+        "definition" : "get comfortable in your new ways",
+        "example1" : "It had finnally paid off. I had eventually found my feet, years after losing my job.",
+        "example2" : "How many of us had found their feet? The situation had left everyone at their bottom and hopeless."
+    },
+    {
+        "id" : "18",
+        "name" : "fixed in their ways",
+        "description" : "fixed in their ways",
+        "definition" : "unwilling to change",
+        "example1" : "The family knew granny was so fixed in her ways. She was bulged by the new ideas brought by the younger generation.",
+        "example2" : "You would have wondered how we live that long. He was so fixed in his ways, it felt like a cult with his leadership."
+    },
+    {
+        "id" : "19",
+        "name" : "got up on the wrong side of the bed this morning",
+        "description" : "got up on the wrong side of the bed this morning",
+        "definition" : "having a very bad",
+        "example1" : "After a series of bad luck, she later realized she had got up on the wrong side of the bed earlier in the morning.",
+        "example2" : "It did not take long to figure out that I had got out of the bed that mroning."
+    },
+    {
+        "id" : "20",
+        "name" : "going the extra mile",
+        "description" : "go the extra mile",
+        "definition" : "doing more than expected or required",
+        "example1" : "The first days at work, everyone like to go the extra mile to add value. It's when they get on their feet that, you see their true colours.",
+        "example2" : "Some type of situations require you to go the extra mile. Do not be accustomed to do what is only required or requested"
+    },
+    {
+        "id" : "21",
+        "name" : "hit the nail on the head",
+        "description" : "hit the nail on the head",
+        "definition" : "doing the right thing or saying the right thing",
+        "example1" : "Everyone appreciated his honesty and straight to the point attitude. By the end of the talk, he had hit the nail in the head.",
+        "example2" : "You will be surprised by how some people fail to hit the nail in the head. They keep on beating around the bushes, fearing to be criticized at the end of their speeches."
+    },
+    {
+        "id" : "22",
+        "name" : "if it is not one thing, it is the other",
+        "description" : "If it's not one thing, it's the other",
+        "definition" : "getting wrong on every turn",
+        "example1" : "The situation got so bad, even the crew laughed at their misfortune. The snow was getting worse as their wellness got bad. If it was not one thing today, it was the other tomorrow.",
+        "example2" : "He thought there was no way out of his case, judging by the opponent accusations. If it was not this thing, it was the other."
+    },
+    {
+        "id" : "23",
+        "name" : "the heat of the moment",
+        "description" : "the heat of the moment",
+        "definition" : "saying or doing things without thinking",
+        "example1" : "Always learn to do things when you are calm. It's hard to reverse actions done at the heat of the moment.",
+        "example2" : "She could not control her mouth, and could not figure out that at the time everyone was angry. Now, she regrets saying bad things to her mother at the heat of the moment."
+    },
+    {
+        "id" : "24",
+        "name" : "keep an eye on him",
+        "description" : "keep an eye on him",
+        "definition" : "always or carefully watching someone or their actions",
+        "example1" : "Always keep an eye on him, he is very childish and he might get lost.",
+        "example2" : "Mr. Akaa actions were always suspicious, we had to keep an eye on him up to the point he left the house."
+    },
+    {
+        "id" : "25",
+        "name" : "kicked the bucket",
+        "description" : "kicked the bucket",
+        "definition" : "died",
+        "example1" : "It was so devastating when she kicked the bucket. We were slowing getting along.",
+        "example2" : "When they kicked the bucket the same week, everyone came up with their own theories."
+    },
+    {
+        "id" : "26",
+        "name" : "let sleeping dog lie",
+        "description" : "let sleeping dog lie",
+        "definition" : "avoid a conflict or let thing slide",
+        "example1" : "We had to let it slide. Letting the sleeping dog lie.",
+        "example2" : "He is a nuisance. Let the  sleeping dogs lie. Otherwise he likes to major on the minor, and he will waste your time."
+    },
+    {
+        "id" : "27",
+        "name" : "let the cat out of the bag",
+        "description" : "let the cat out of the bag",
+        "definition" : "telling a secret you were suppose to keep",
+        "example1" : "You wouldn't believe yourself if your friend let the cat out of the bag on a secret you told earlier.",
+        "example2" : "The fame took him by storm. Everything he did, he had to give an interview to the press. It put him at the risk of letting the cat out of the bag. No one had to know his deepest secret."
+    },
+    {
+        "id" : "28",
+        "name" : "bite the hand that feed you",
+        "description" : "bite the hand that feed you",
+        "definition" : "hurting someone who always there for you",
+        "example1" : "Dorothy could not be helped for a long time. She had a tendency to bite the hand that fed her. Later the whole town was fed up with her attitude.",
+        "example2" : "Haynes was put down to his kneels by the same people he had helped. It was so sad to see them biting the hand that fed them when they were desperate."
+    },
+    {
+        "id" : "29",
+        "name" : "sitting on the fence",
+        "description" : "sitting on the fence",
+        "definition" : "not yet decided",
+        "example1" : "He got to the third year sitting on the fence. One professor approached him and questioned if he could choose one major as he was already a year out of graduation.",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    },
+    {
+        "id" : "",
+        "name" : "",
+        "description" : "",
+        "definition" : "",
+        "example1" : "",
+        "example2" : ""
+    }
+    ]
+}
